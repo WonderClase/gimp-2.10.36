@@ -1,0 +1,35 @@
+# 7.3. 퀵 마스크
+
+[선택 도구](./14-02-00-selection-tools.md)는 선택한 영역의 외곽선을 표시합니다. 이 방법은 복잡한 선택일 경우에 선택한 영역과 선택하지 않은 영역의 구분이 어렵습니다. 퀵 마스크는 선택한 영역의 외곽선을 표시하는 것 대신 선택 영역에 색을 칠해서 더 쉽게 구분해서 볼 수 있도록 해줍니다.
+
+<a id="90-05-05-a121"></a>
+
+#### [영상 90.5.5.a121. 퀵 마스크 적용으로 선택영역 확인하기](./90-05-05-quickmask_toggle.md#90-05-05-a121)
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ecb7111d-e19d-4959-bd35-65dd55af06a0"></video>
+
+***
+
+## 하위 페이지
+
+[7.3.1. 퀵 마스크 개요](./07-03-01-overview.md)
+
+[7.3.2. 퀵 마스크 속성](./07-03-02-properties.md)
+
+***
+
+## 관련 정보
+
+[15.2.2.3.1. 선택 마스크 만들기(Creating Selection Masks) - 2. 퀵 마스크 만들기](./15-02-02-03-01-creating_selection_masks.md#15-02-02-03-01-s2)
+
+***
+
+## 다른 페이지로 가기
+[➡️ 다음: 7.3.1. 퀵 마스크 개요](./07-03-01-overview.md)
+
+[⬅️ 이전: 7.2.2. 선택 더하기/빼기](./07-02-02-adding-or-subtracting-selections.md)
+
+[⬆️ 위: 7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-window-quick-mask-button.html)

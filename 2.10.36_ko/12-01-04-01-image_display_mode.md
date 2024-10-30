@@ -1,0 +1,41 @@
+# 12.1.4.1. 이미지 표시 모드(Image Display Mode)
+
+<a id="90-02-02-a12"></a>
+
+#### [그림 90.2.2.a12. `기본설정` → `색상관리` → `이미지 표시 모드` (Windows) (우리말)](./90-02-02-color-management.md#90-02-02-a12)
+![90-02-02-a12](https://github.com/wonder13662/gimp/assets/15767104/b8fbc2f4-1627-470b-85c5-5039c6687037)
+
+`이미지 표시 모드`에서 GIMP(김프) 색상 관리가 어떻게 동작할지 결정합니다. 세가지 모드를 선택할 수 있습니다.
+
+## 1. 색상 관리 사용 안 함(No color management)
+GIMP(김프)에서 색상 관리를 사용하지 않습니다.
+
+## 2. 색상 관리 표시(Color managed display)
+GIMP(김프)의 색상 관리를 활성화해서 화면의 색상 프로필에 따라 이미지의 표시를 조정합니다.
+
+## 3. 색상교정(Soft-proofing)
+`색상교정(Soft-proofing)` 옵션을 체크하면, GIMP(김프)의 색상 관리를 이미지 표시의 프로필에만 적용하는 것만이 아니라, 선택한 인쇄 실험 프로필에도 적용합니다. 이렇게 하면, 해당 프린터에서 인쇄되는 결과물의 색상을 미리보기 할 수 있습니다.
+
+> 🗒️ 참고
+> 
+> GIMP(김프) 색상 관리는 이미지의 표시와 이미지 파일에 첨부된 색상 프로필을 강화합니다. 좀 더 자세하게 말하자면, `기본설정` → `색상관리` → `이미지 표시 모드`에서 사용자가 선택하는 옵션은 GIMP(김프)에서 인쇄를 하는 과정에는 쓰이지 않습니다. 왜냐하면, 인쇄는 프린팅 엔진으로 진행되는 작업이며, 프린팅 엔진은 GIMP(김프)에 속해있지 않기 때문입니다.
+
+`색상교정(Soft-proofing)`에 대한 자세한 내용은 [19. 용어집 - 색상 교정(Soft Proofing)](./19-glossaryx-soft_proofing.md)을 참고해주세요.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 12.1.4.2. 색상 관리 디스플레이(Color Managed Display)](./12-01-04-02-color_managed_display.md)
+
+[⬅️ 이전: 12.1.4. 색상 관리(Color Management)](./12-01-04-00-color-management.md)
+
+[⬆️ 위: 12.1.4. 색상 관리(Color Management)](./12-01-04-00-color-management.md)
+
+[⬆️ 위: 12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
+
+[⬆️ 위: 12. 나만의 GIMP(김프) 만들기](./12-00-enrich-my-gimp.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-pimping.html#gimp-prefs-color-management)

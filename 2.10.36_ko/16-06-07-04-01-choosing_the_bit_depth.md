@@ -1,0 +1,37 @@
+# 16.6.7.4.1. 비트 깊이 선택하기(8비트, 16비트, 32비트)
+
+<a id="16-06-07-04-01-s1"></a>
+
+## 1. 이미지의 비트 깊이
+이미지의 [비트 깊이(bit depth)](./19-glossaryx-bit_depth.md)는 이미지 파일을 처리할 때 사용가능한 정밀도가 어느 정도인지 설정합니다.
+
+모든 조건이 같다면, 높은 값의 비트 깊이(8비트 < 16비트 < 32비트)는 더 정밀한 색상 정보를 가집니다.
+
+<a id="16-06-07-04-01-s2"></a>
+
+## 2. 이미지의 비트 깊이와 필요한 램(RAM)의 크기의 관계
+이미지의 [비트 깊이(bit depth)](./19-glossaryx-bit_depth.md)는 부분적으로 이미지를 처리할 때 얼마나 많은 램(RAM)이 필요한지 결정합니다.
+
+높은 값의 비트 깊이일수록 이미지를 처리하는 동안 데이터를 저장할 때 더 많은 램(RAM)이 필요합니다.
+
+참고로 이미지 레이어의 크기와 레이어 스택 안의 레이어의 개수도 이미지 처리시의 필요한 램(RAM)의 양에 영향을 미칩니다.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.6.7.4.2. 정수와 부동소수점 정밀도 선택하기(Choosing between integer and floating point precision)](./16-06-07-04-02-choosing_between_integer_and_floating_point_precision.md)
+
+[⬅️ 이전: 16.6.7.4. 정밀도 옵션의 추가적인 설명(More information about the Precision options)](./16-06-07-04-00-more_information_about_the_precision_options.md)
+
+[⬆️ 위: 16.6.7.4. 정밀도 옵션의 추가적인 설명(More information about the Precision options)](./16-06-07-04-00-more_information_about_the_precision_options.md)
+
+[⬆️ 위: 16.6.7. 정밀도(Precision)](./16-06-07-00-precision.md)
+
+[⬆️ 위: 16.6. 이미지 메뉴(The "Image" menu)](./16-06-00-the-image-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-precision.html#idm26656)

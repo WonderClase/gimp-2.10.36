@@ -1,0 +1,18 @@
+# 19. 용어집 - 색 모델: HSV
+
+## 1. 정의
+HSV([Hue](./19-glossaryx-hue.md), [Saturation](./19-glossaryx-saturation.md), [Value](./19-glossaryx-value_hsv.md))
+
+## 2. 비슷한 말
+
+- HSV 색 공간(HSV Color Space)
+
+*** 
+
+## 관련 정보
+
+[원문](https://docs.gimp.org/2.10/ko/glossary.html#glossary-hsv)
+
+[19. 용어집 - 값(HSV) - Value(HSV)](./19-glossaryx-value_hsv.md)
+
+[19. 용어집 - HSV 색상환(HSV Color Wheel)](./19-glossaryx-hsv_color_wheel.md)

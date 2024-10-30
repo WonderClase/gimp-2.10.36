@@ -1,0 +1,306 @@
+# 14.3. 칠하기 도구(Paint tools)
+
+<a id="90-01-08-02-a1"></a>
+
+#### [그림 90.1.8.2.a1. 도구 - 칠하기 도구 (Windows)](./90-01-08-02-00-paint_tools.md#90-01-08-02-a1)
+![90-01-08-02-a1](https://github.com/wonder13662/gimp/assets/15767104/29a78a3a-5bcb-48c9-a6d7-684b9b61c3b3)
+
+[다른 운영체제와 언어의 도구 - 칠하기 도구 확인하기](./90-01-08-02-00-paint_tools.md#90-01-08-02-a2)
+
+***
+
+## 하위 페이지
+
+[14.3.1. 일반적인 특징(Common features)](./14-03-01-00-common-features.md)
+
+[14.3.1.1. 동작 변경키(Key modifiers)](./14-03-01-01-key_modifiers.md)
+
+[14.3.1.2. 도구 옵션(Tool Options)](./14-03-01-02-00-tool_options.md)
+
+[14.3.1.2.1. 모드(Mode)](./14-03-01-02-01-mode.md)
+
+[14.3.1.2.2. 불투명도(Opacity)](./14-03-01-02-02-opacity.md)
+
+[14.3.1.2.3. 붓(Brush)](./14-03-01-02-03-00-brush.md)
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog)](./14-03-01-02-03-01-simple_brush_dialog.md)
+
+[14.3.1.2.3.2. 붓 공유하기(Sharing Brush)](./14-03-01-02-03-02-sharing_brush.md)
+
+[14.3.1.2.3.3. 색을 쓸 수 있는 붓(Brush using Color)](./14-03-01-02-03-03-brush_using_color.md)
+
+[14.3.1.2.4. 크기(Size)](./14-03-01-02-04-size.md)
+
+[14.3.1.2.5. 종횡비(Aspect Ratio)](./14-03-01-02-05-aspect_ratio.md)
+
+[14.3.1.2.6. 각도(Angle)](./14-03-01-02-06-angle.md)
+
+[14.3.1.2.7. 간격(Spacing)](./14-03-01-02-07-spacing.md)
+
+[14.3.1.2.8. 경도(Hardness)](./14-03-01-02-08-hardness.md)
+
+[14.3.1.2.9. 압력(Force)](./14-03-01-02-09-force.md)
+
+[14.3.1.2.10. 동적 요소(Dynamics)](./14-03-01-02-10-dynamics.md)
+
+[14.3.1.2.11. 동적 요소 옵션(Dynamics Options)](./14-03-01-02-11-dynamics_options.md)
+
+[14.3.1.2.12. 지터 적용(Apply Jitter)](./14-03-01-02-12-apply_jitter.md)
+
+[14.3.1.2.13. 부드러운 스트로크(Smooth Stroke)](./14-03-01-02-13-smooth_stroke.md)
+
+[14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view)](./14-03-01-02-14-lock_brush_size_to_view.md)
+
+[14.3.1.2.15. 증분(Incremental)](./14-03-01-02-15-incremental.md)
+
+[14.3.1.3. 칠하기 모드 예제(Paint Mode Examples)](./14-03-01-03-00-paint_mode_examples.md)
+
+[14.3.1.3.1. 분해(Dissolve)](./14-03-01-03-01-dissolve.md)
+
+[14.3.1.3.2. 뒤쪽으로(Behind)](./14-03-01-03-02-behind.md)
+
+[14.3.1.3.3. 색상 지우기(Color Erase)](./14-03-01-03-03-color_erase.md)
+
+[14.3.1.4. 더 자세한 정보(Further Information)](./14-03-01-04-further_information.md)
+
+[14.3.2. 동적 요소(Dynamics)](./14-03-02-00-dynamics.md)
+
+[14.3.2.1. 페인트 동적 요소 대화상자(The Paint Dynamics Dialog)](./14-03-02-01-the_paint_dynamics_dialog.md)
+
+[14.3.2.2. 페인트 동적 요소 수정하기(Editing Paint Dynamics)](./14-03-02-02-editing_paint_dynamics.md)
+
+[14.3.2.3. 페인트 동적 요소 행렬(The Paint Dynamics Matrix)](./14-03-02-03-the_paint_dynamics_matrix.md)
+
+[14.3.2.4. 동적 요소 설정하기(Customizing the Dynamics)](./14-03-02-04-customizing_the_dynamics.md)
+
+[14.3.2.5. 동적 요소 예제(Dynamic Examples)](./14-03-02-05-00-dynamics_examples.md)
+
+[14.3.2.5.1. Abstract 1 그라디언트 구체(Abstract 1 Gradient Sphere)](./14-03-02-05-01-abtract_gradient_sphere.md)
+
+[14.3.2.6. 동적 요소 옵션(Dynamics Options)](./14-03-02-06-dynamics_options.md)
+
+[14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)](./14-03-03-00-brush-tools-pencil-paintbrush-airbrush.md)
+
+[14.3.3.1. 동작 변경키(Key Modifiers)](./14-03-03-01-key_modifiers.md)
+
+[14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket_fill.md)
+
+[14.3.4.1. 도구 활성화하기(Activating the tools)](./14-03-04-01-activating_the_tool.md)
+
+[14.3.4.2. 동작 변경키(Key modifiers)](./14-03-04-02-key_modifiers.md)
+
+[14.3.4.3. 옵션(Options)](./14-03-04-03-00-options.md)
+
+[14.3.4.3.1. 모드(Mode)](./14-03-04-03-01-mode.md)
+
+[14.3.4.3.2. 불투명(Opacity)](./14-03-04-03-02-opacity.md)
+
+[14.3.4.3.3. 채우기 유형(Fill Type)](./14-03-04-03-03-fill_type.md)
+
+[14.3.4.3.4. 영향을 받는 영역(Affected Area)](./14-03-04-03-04-00-affected_area.md)
+
+[14.3.4.3.4.1. Smart Colorization](./14-03-04-03-04-01-smart_colorization.md)
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors)](./14-03-04-03-05-finding_similar_colors.md)
+
+[14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option)](./14-03-04-03-06-line_art_detection_options.md)
+
+[14.3.4.4. 흐릿한 경계가 있는 선택 채우기(Fill a feathered selection)](./14-03-04-04-fill_a_feathered_selection.md)
+
+[14.3.5. 그라디언트(Gradient)](./14-03-05-00-gradient.md)
+
+[14.3.5.1. 도구 활성화하기(Activating the tools)](./14-03-05-01-activating_the_tool.md)
+
+[14.3.5.2. 동작 변경키(Key modifiers)](./14-03-05-02-key_modifiers.md)
+
+[14.3.5.3. 옵션(Options)](./14-03-05-03-00-options.md)
+
+[14.3.5.3.1. 모드(Mode)](./14-03-05-03-01-mode.md)
+
+[14.3.5.3.2. 불투명도(Opacity)](./14-03-05-03-02-opacity.md)
+
+[14.3.5.3.3. 그라디언트(Gradient)](./14-03-05-03-03-gradient.md)
+
+[14.3.5.3.4. 혼합할 색 공간(Blend Color Space)](./14-03-05-03-04-blend_color_space.md)
+
+[14.3.5.3.5. 모양(Shape)](./14-03-05-03-05-shape.md)
+
+[14.3.5.3.6. 단위(Metric)](./14-03-05-03-06-metric.md)
+
+[14.3.5.3.7. 반복(Repeat)](./14-03-05-03-07-repeat.md)
+
+[14.3.5.3.8. 오프셋(Offset)](./14-03-05-03-08-offset.md)
+
+[14.3.5.3.9. 디더링(Dithering)](./14-03-05-03-09-dithering.md)
+
+[14.3.5.3.10. 적응형 슈퍼샘플링(Adaptive Supersampling)](./14-03-05-03-10-adaptive_supersampling.md)
+
+[14.3.5.3.11. 인스턴트 모드(Instant Mode)](./14-03-05-03-11-instant_mode.md)
+
+[14.3.5.3.12. 활성화된 그라디언트 수정하기(Modify active gradient)](./14-03-05-03-12-modify_active_gradient.md)
+
+[14.3.5.4. 그라디언트 고치기(Editing Gradient)](./14-03-05-04-00-editing_gradient.md)
+
+[14.3.5.4.1. 캔버스에서 수정하기(On-canvas editing)](./14-03-05-04-01-on_canvas_editing.md)
+
+[14.3.5.4.2. 동작 변경키(Key modifiers)](./14-03-05-04-02-key_modifiers.md)
+
+[14.3.5.4.3. 그라디언트 편집기(Gradient Editor)](./14-03-05-04-03-gradient_editor.md)
+
+[14.3.5.4.4. 커스텀 그라디언트(Custom Gradient)](./14-03-05-04-04-custom_gradient.md)
+
+[14.3.6. 연필(Pencil)](./14-03-06-00-pencil.md)
+
+[14.3.6.1. 도구 활성화하기(Activating the tools)](./14-03-06-01-activating_the_tool.md)
+
+[14.3.6.2. 동작 변경키(Key modifiers)](./14-03-06-02-key_modifiers.md)
+
+[14.3.6.3. 옵션(Options)](./14-03-06-03-options.md)
+
+[14.3.7. 그리기 붓(Paintbrush)](./14-03-07-00-paintbrush.md)
+
+[14.3.7.1. 도구 활성화하기(Activating the tools)](./14-03-07-01-activating_the_tool.md)
+
+[14.3.7.2. 동작 변경키(Key modifiers)](./14-03-07-02-key_modifiers.md)
+
+[14.3.7.3. 옵션(Options)](./14-03-07-03-options.md)
+
+[14.3.8. 마이페인트 붓(Mypaint brush)](./14-03-08-00-mypaint-brush.md)
+
+[14.3.8.1. 마이페인트 붓 설치하기(Installing MyPaing Brushes)](./14-03-08-01-installing_mypaint_brushes.md)
+
+[14.3.8.2. 도구 활성화하기(Activating the tools)](./14-03-08-02-activating_the_tool.md)
+
+[14.3.8.3. 옵션(Options)](./14-03-08-03-options.md)
+
+[14.3.8.4. 동작 변경키(Key modifiers)](./14-03-08-04-key_modifiers.md)
+
+[14.3.8.5. 붓 목록](./14-03-08-05-00-brush_list.md)
+
+[14.3.8.5.1. 2B 연필(2B Pencil)](./14-03-08-05-01-2b_pencil.md)
+
+[14.3.9. 지우개(Eraser)](./14-03-09-00-eraser.md)
+
+[14.3.9.1. 도구 활성화하기(Activating the tools)](./14-03-09-01-activating_the_tool.md)
+
+[14.3.9.2. 동작 변경키(Key modifiers)](./14-03-09-02-key_modifiers.md)
+
+[14.3.9.3. 옵션(Options)](./14-03-09-03-options.md)
+
+[14.3.10. 에어브러시(Airbrush)](./14-03-10-00-airbrush.md)
+
+[14.3.10.1. 도구 활성화하기(Activating the tools)](./14-03-10-01-activating_the_tool.md)
+
+[14.3.10.2. 동작 변경키(Key modifiers)](./14-03-10-02-key_modifiers.md)
+
+[14.3.10.3. 옵션(Options)](./14-03-10-03-options.md)
+
+[14.3.11. 잉크(Ink)](./14-03-11-00-ink.md)
+
+[14.3.11.1. 도구 활성화하기(Activating the tools)](./14-03-11-01-activating_the_tool.md)
+
+[14.3.11.2. 동작 변경키(Key modifiers)](./14-03-11-02-key_modifiers.md)
+
+[14.3.11.3. 옵션(Options)](./14-03-11-03-options.md)
+
+[14.3.12. 도장(Clone)](./14-03-12-00-clone.md)
+
+[14.3.12.1. 도구 활성화하기(Activating the tools)](./14-03-12-01-activating_the_tool.md)
+
+[14.3.12.2. 동작 변경키(Key modifiers)](./14-03-12-02-key_modifiers.md)
+
+[14.3.12.3. 옵션(Options)](./14-03-12-03-00-options.md)
+
+[14.3.12.3.1. 모드(Mode)](./14-03-12-03-01-mode.md)
+
+[14.3.12.3.2. 불투명도(Opacity)](./14-03-12-03-02-opacity.md)
+
+[14.3.12.3.3. 붓(Brush)](./14-03-12-03-03-brush.md)
+
+[14.3.12.3.4. 크기(Size)](./14-03-12-03-04-size.md)
+
+[14.3.12.3.5. 종횡비(Aspect Ratio)](./14-03-12-03-05-aspect_ratio.md)
+
+[14.3.12.3.6. 각도(Angle)](./14-03-12-03-06-angle.md)
+
+[14.3.12.3.7. 간격(Spacing)](./14-03-12-03-07-spacing.md)
+
+[14.3.12.3.8. 경도(Hardness)](./14-03-12-03-08-hardness.md)
+
+[14.3.12.3.9. 압력(Force)](./14-03-12-03-09-force.md)
+
+[14.3.12.3.10. 동적 요소(Dynamics)](./14-03-12-03-10-dynamics.md)
+
+[14.3.12.3.11. 동적 요소 옵션(Dynamics Options)](./14-03-12-03-11-dynamics_options.md)
+
+[14.3.12.3.12. 지터 적용(Apply Jitter)](./14-03-12-03-12-apply_jitter.md)
+
+[14.3.12.3.13. 부드러운 스트로크(Smooth Stroke)](./14-03-12-03-13-smooth_stroke.md)
+
+[14.3.12.3.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view)](./14-03-12-03-14-lock_brush_size_to_view.md)
+
+[14.3.12.3.15. 가장자리 딱딱하게(Hard edge)](./14-03-12-03-15-hard_edge.md)
+
+[14.3.12.3.16. 소스(Source)](./14-03-12-03-16-source.md)
+
+[14.3.12.3.17. 정렬(Alignment)](./14-03-12-03-17-alignment.md)
+
+[14.3.12.4. 추가 정보](./14-03-12-04-more_information.md)
+
+[14.3.13. 복원(Heal)](./14-03-13-00-heal.md)
+
+[14.3.13.1. 도구 활성화하기(Activating the tools)](./14-03-13-01-activating_the_tool.md)
+
+[14.3.13.2. 동작 변경키(Key modifiers)](./14-03-13-02-key_modifiers.md)
+
+[14.3.13.3. 옵션(Options)](./14-03-13-03-options.md)
+
+[14.3.13.4. 복원 도구는 도장 도구가 아닙니다(Healing is not cloning)](./14-03-13-04-healing_is_not_cloning.md)
+
+[14.3.14. 원근 복제(Perspective clone)](./14-03-14-00-perspective-clone.md)
+
+[14.3.14.1. 도구 활성화하기(Activating the tools)](./14-03-14-01-activating_the_tool.md)
+
+[14.3.14.2. 동작 변경키(Key modifiers)](./14-03-14-02-key_modifiers.md)
+
+[14.3.14.3. 옵션(Options)](./14-03-14-03-options.md)
+
+[14.3.14.4. 예제](./14-03-14-04-example.md)
+
+[14.3.15. 흐릿하게/선명하게(Blur/sharpen)](./14-03-15-00-blur-sharpen.md)
+
+[14.3.15.1. 도구 활성화하기(Activating the tools)](./14-03-15-01-activating_the_tool.md)
+
+[14.3.15.2. 동작 변경키(Key modifiers)](./14-03-15-02-key_modifiers.md)
+
+[14.3.15.3. 옵션(Options)](./14-03-15-03-options.md)
+
+[14.3.16. 문지르기(Smudge)](./14-03-16-00-smudge.md)
+
+[14.3.16.1. 도구 활성화하기(Activating the tools)](./14-03-16-01-activating_the_tool.md)
+
+[14.3.16.2. 동작 변경키(Key modifiers)](./14-03-16-02-key_modifiers.md)
+
+[14.3.16.3. 옵션(Options)](./14-03-16-03-options.md)
+
+[14.3.17. 닷지/번(Dodge/Burn)](./14-03-17-00-dodge-burn.md)
+
+[14.3.17.1. 도구 활성화하기(Activating the tools)](./14-03-17-01-activating_the_tool.md)
+
+[14.3.17.2. 동작 변경키(Key modifiers)](./14-03-17-02-key_modifiers.md)
+
+[14.3.17.3. 옵션(Options)](./14-03-17-03-options.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 14.3.1. 일반적인 특징(Common features)](./14-03-01-00-common-features.md)
+
+[⬅️ 이전: 14.2.8.4. 전경 추출 정제하기(Refining Foreground Extraction)](./14-02-08-04-refining_foreground_extraction.md)
+
+[⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-tools-paint.html)

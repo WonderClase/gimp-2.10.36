@@ -1,0 +1,1 @@
+# 20.2. A step-by-step example showing how to recover shadow information using high bit depth GIMP’s floating point “Colors/Exposure”

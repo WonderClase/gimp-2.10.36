@@ -1,0 +1,27 @@
+# 10.1.4. 선명도 조절하기(Adjust Sharpness)
+
+***
+
+## 하위 페이지
+
+[10.1.4.1. 선명하게 하기(Unblurring)](./10-01-04-01-unblurring.md)
+
+[10.1.4.2. 거친 정도 줄이기(Reducing Graininess)](./10-01-04-02-reducing_graininess.md)
+
+[10.1.4.3. 부드럽게 하기(Softening)](./10-01-04-03-softening.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 10.1.4.1. 선명하게 하기(Unblurring)](./10-01-04-01-unblurring.md)
+
+[⬅️ 이전: 10.1.3.3. 색조 및 채도 조정](./10-01-03-03-adjusting_hue_and_saturation.md)
+
+[⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-00-working-with-digital-camera-photos.md)
+
+[⬆️ 위: 10. 사진 편집하기](./10-00-enhancing-photographs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-imaging-photos.html#gimp-using-photography-sharpness)
