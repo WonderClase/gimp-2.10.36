@@ -118,7 +118,7 @@
 
 [3.4.2. 이미지의 크기 바꾸기 (화면용)](./03-04-02-change-the-size-of-an-image-for-the-screen.md)
 
-[3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change-the-size-of-an-image-for-print.md)
+[3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change_the_size_of_an_image_for_print.md)
 
 [3.4.4. 이미지 압축하기](./03-04-04-compressing-images.md)
 
@@ -1040,7 +1040,7 @@
 
 [13.4.7. Glowing Logo](./13-04-07-glowing_logo.md)
 
-[13.4.8. Imigre-26](./13-04-08-imigre_26.md)
+[13.4.8. Imigre-26](./13-04-08-imigre_26_.md)
 
 [13.4.9. Land](./13-04-09-land.md)
 

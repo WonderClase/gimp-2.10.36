@@ -187,7 +187,7 @@ GIMP(김프)에서 지원되는 확장자는 사용자가 설치한 라이브러
 
 [➡️ 다음: 3.4.5. 이미지 잘라내기](./03-04-05-crop-an-image.md)
 
-[⬅️ 이전: 3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change-the-size-of-an-image-for-print.md)
+[⬅️ 이전: 3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change_the_size_of_an_image_for_print.md)
 
 [⬆️ 위: 3.4. 자주하는 편집 작업](./03-04-00-common-tasks.md)
 

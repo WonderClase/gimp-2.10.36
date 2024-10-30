@@ -76,7 +76,7 @@ GIMP는 이미지를 보기 좋은 크기로 엽니다.
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change-the-size-of-an-image-for-print.md)
+[➡️ 다음: 3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change_the_size_of_an_image_for_print.md)
 
 [⬅️ 이전: 3.4.1. 목적](./03-04-01-intention.md)
 

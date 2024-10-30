@@ -87,7 +87,7 @@ module.exports = {
         '3.4.2. 이미지의 크기 바꾸기 (화면용)',
       ],
       [
-        '03-04-03-change-the-size-of-an-image-for-print.md', 
+        '03-04-03-change_the_size_of_an_image_for_print.md', 
         '3.4.3. Change the size of an Image for print',
         '3.4.3. 이미지의 크기 바꾸기 (인쇄용)',
       ],
