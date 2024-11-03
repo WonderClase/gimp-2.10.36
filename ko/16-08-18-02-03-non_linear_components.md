@@ -11,7 +11,7 @@
 
 <a id="90-04-71-a232"></a>
 
-#### 영상 90.4.71.a232. `대비 증가` 대화상자 → `비선형 구성 요소` (Windows) (우리말)
+#### [영상 90.4.71.a232. `대비 증가` 대화상자 → `비선형 구성 요소` (Windows) (우리말)](./90-04-0071-stretch_contrast.md#90-04-71-a232)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/72979e1f-97c8-4dbe-8ecf-530808aec6c4"></video>
 
 ***
