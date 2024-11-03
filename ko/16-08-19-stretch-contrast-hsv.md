@@ -12,7 +12,7 @@
 
 다만 이 명령은 [RGB 색 공간](./19-glossaryx-color_mode_rgb.md)이 아닌 [HSV 색 공간](./19-glossaryx-color_model_hsv.md)에서 작동하며, [색상(Hue)](./19-glossaryx-hue.md)을 유지시킵니다.
 
-그러므로, 이 명령은 독립적으로 색상의 [색상(Hue)](./19-glossaryx-hue.md), [채도(Saturation)](./19-glossaryx-saturation.md), [값(HSV)](./19-glossaryx-value_hsv.md)의 범위를 확장합니다.
+그러므로, 이 명령은 독립적으로 색상의 [색상(Hue)](./19-glossaryx-hue.md), [채도(Saturation)](./19-glossaryx-saturation.md), [값(Value)](./19-glossaryx-value_hsv.md)의 범위를 확장합니다.
 
 때때로는 결과가 좋지만 대체로는 좀 이상해 보입니다.
 
