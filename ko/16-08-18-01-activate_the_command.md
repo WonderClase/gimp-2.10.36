@@ -6,7 +6,7 @@
 
 <a id="90-01-07-14-03-a111"></a>
 
-#### 영상 90.1.7.14.3.a111. `이미지 메뉴 바` → `색` → `자동` → `대비 증가…` (Windows) (우리말)
+#### [영상 90.1.7.14.3.a111. `이미지 메뉴 바` → `색` → `자동` → `대비 증가…` (Windows) (우리말)](./90-01-07-14-03-stretch_contrast.md#90-01-07-14-03-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/82648161-13bd-423e-a7ec-4b7c305a3aa4"></video>
 
 ***
