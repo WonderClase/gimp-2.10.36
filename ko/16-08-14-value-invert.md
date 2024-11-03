@@ -5,7 +5,7 @@
 #### [그림 90.1.7.13.a1. `이미지 메뉴 바` → `색` → `명도 반전`](./90-01-07-13-value_invert.md#90-01-07-13-a1)
 <img width="916" height="970" alt="90-01-07-13-a1" src="https://github.com/user-attachments/assets/a81b3911-9d84-403c-9b94-d4f02ca3713b" />
 
-`명도 반전(Value Invert)` 필터는 [활성화 레이어](./19-glossaryx-active_layer.md) 또는 [선택 영역](./19-glossaryx-selection.md)의 명도(Value) 또는 [휘도(Luminosity)](./19-glossaryx-luminance.md)를 반전시킵니다.
+`명도 반전(Value Invert)` 필터는 [활성화 레이어](./19-glossaryx-active_layer.md) 또는 [선택 영역](./19-glossaryx-selection.md)의 [명도(Value)](./19-glossaryx-value_hsv.md) 또는 [휘도(Luminosity)](./19-glossaryx-luminance.md)를 반전시킵니다.
 
 [색상(Hue)](./19-glossaryx-hue.md)과 [채도(Saturation)](./19-glossaryx-saturation.md)는 영향을 받지 않습니다.
 
