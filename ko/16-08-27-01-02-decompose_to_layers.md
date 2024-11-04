@@ -9,19 +9,19 @@
 
 ## 1. 옵션이 체크되었을 때 - 레이어로 분해
 
-<a id="90-01-07-15-05-a11"></a>
+<a id="90-01-07-15-05-a12"></a>
 
-#### [영상 90.1.7.15.5.a11. `이미지 메뉴 바` → `색` → `성분` → `분해…`: 이미지로 분해하기(RGB) (Windows) (우리말)](./90-01-07-15-05-decompose.md#90-01-07-15-05-a11)
-<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/42fdf26c-983a-43ad-b545-b72f4e363169"></video>
+#### [영상 90.1.7.15.5.a12. `이미지 메뉴 바` → `색` → `성분` → `분해…`: 레이어로 분해하기(RGB) (Windows) (우리말)](./90-01-07-15-05-decompose.md#90-01-07-15-05-a12)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/58ea596d-bbea-429d-9eb5-0d627b1b79c0"></video>
 
 <a id="16-08-27-01-02-s2"></a>
 
 ## 2. 옵션이 체크 해제되었을 때 - 개별 이미지로 분해
 
-<a id="90-01-07-15-05-a12"></a>
+<a id="90-01-07-15-05-a11"></a>
 
-#### [영상 90.1.7.15.5.a12. `이미지 메뉴 바` → `색` → `성분` → `분해…`: 레이어로 분해하기(RGB) (Windows) (우리말)](./90-01-07-15-05-decompose.md#90-01-07-15-05-a12)
-<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/58ea596d-bbea-429d-9eb5-0d627b1b79c0"></video>
+#### [영상 90.1.7.15.5.a11. `이미지 메뉴 바` → `색` → `성분` → `분해…`: 이미지로 분해하기(RGB) (Windows) (우리말)](./90-01-07-15-05-decompose.md#90-01-07-15-05-a11)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/42fdf26c-983a-43ad-b545-b72f4e363169"></video>
 
 ***
 
