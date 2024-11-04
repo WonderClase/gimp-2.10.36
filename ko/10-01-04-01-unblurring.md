@@ -55,7 +55,7 @@
 ## 2. 분해(Decompose) 및 구성(Compose)
 [`이미지 메뉴 바` → `필터` → `보강` → `선명하게…`](./17-04-08-sharpen-unsharp-mask.md)를 사용하면 이미지의 대조가 강한 경우에 때때로 색상 왜곡이 일어납니다.
 
-색상 왜곡이 일어나면, 이미지를 HSV로 분해(Decompose)해서 [색상(Hue)](./19-glossaryx-hue.md)-[채도(Saturation)](./19-glossaryx-saturation.md)-[명도(Value)](./19-glossaryx-brightness.md) 레이어로 분리합니다.
+색상 왜곡이 일어나면, 이미지를 [HSV](./19-glossaryx-color_model_hsv.md)로 분해(Decompose)해서 [색상(Hue)](./19-glossaryx-hue.md)-[채도(Saturation)](./19-glossaryx-saturation.md)-[명도(Value)](./19-glossaryx-brightness.md) 레이어로 분리합니다.
 
 <a id="90-04-79-a101"></a>
 
