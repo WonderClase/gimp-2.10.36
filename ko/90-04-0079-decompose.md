@@ -40,7 +40,7 @@
 #### 그림 90.4.79.a212. `분해` 대화상자 → `색상 모델`: 드롭다운 목록 (Windows) (우리말)
 <img width="135" height="256" alt="90-04-79-a212" src="https://github.com/user-attachments/assets/fc1f8131-6329-4a0d-ba5f-52d651d9b606" />
 
-[16.8.27.1.1. 색상 모델(Color Model) - 그림 90.4.79.a212](./16-08-27-01-01-color_model.md90-04-79-a212)
+[16.8.27.1.1. 색상 모델(Color Model) - 그림 90.4.79.a212](./16-08-27-01-01-color_model.md#90-04-79-a212)
 
 <a id="90-04-79-a213"></a>
 
