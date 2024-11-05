@@ -2,7 +2,7 @@
 
 <a id="90-01-07-17-01-a1"></a>
 
-#### 그림 90.1.7.17.1.a1. `이미지 메뉴 바` → `색` → `지도` → `색상표 재배치…` (Windows)
+#### [그림 90.1.7.17.1.a1. `이미지 메뉴 바` → `색` → `지도` → `색상표 재배치…` (Windows)](./90-01-07-17-01-rearrange_colormap.md#90-01-07-17-01-a1)
 <img width="511" height="381" alt="90-01-07-17-01-a1" src="https://github.com/user-attachments/assets/748e9146-c91c-48cc-9ee8-51f157e8d277" />
 
 `색상표 재배치(Rearrange colormap)` 명령으로 [인덱스](./19-glossaryx-color_mode_indexed.md) 이미지의 팔레트의 색상을 재정렬할 수 있습니다.
