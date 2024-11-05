@@ -54,7 +54,6 @@
 <a id="16-08-39-01-03-s2-02"></a>
 
 ### 2-2. Change to this
-It will change gray colors to the selected Hue and Saturation without any rotation.
 회색톤의 색상들을 `회색 다루기(Gray Handling)`의 색상환에서 선택한 [색상(Hue)](./19-glossaryx-hue.md)과 [채도(Saturation)](./19-glossaryx-saturation.md)로 바꿉니다.
 
 이 회색톤의 색상들은 `원본 범위(Source Range)`, `대상 범위(Destination Range)`에 따라 색전환을 하지 않습니다.
