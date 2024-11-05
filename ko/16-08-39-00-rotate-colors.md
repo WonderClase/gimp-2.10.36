@@ -20,7 +20,7 @@
 
 <a id="90-01-07-17-05-a21"></a>
 
-#### 영상 90.1.7.17.5.a21. `이미지 메뉴 바` → `색` → `지도` → `색 전환…` (Windows) (우리말)
+#### [영상 90.1.7.17.5.a21. `이미지 메뉴 바` → `색` → `지도` → `색 전환…` (Windows) (우리말)](./90-01-07-17-05-rotate_colors.md#90-01-07-17-05-a21)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/89434a96-578f-4fb4-b7d3-9231585f080a"></video>
 
 ***
