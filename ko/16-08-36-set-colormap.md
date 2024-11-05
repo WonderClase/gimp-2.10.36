@@ -12,6 +12,8 @@
 #### [그림 90.4.209.a101. `색상표 설정하기` 대화상자 (Windows) (우리말)](./90-04-0209-set_colormap.md#90-04-209-a101)
 <img width="384" height="197" alt="90-04-209-a101" src="https://github.com/user-attachments/assets/d929f2a8-08c6-47b8-9390-4f4f9e1590c2" />
 
+[다른 운영체제와 언어의 `색상표 설정하기` 대화상자 확인하기](./90-04-0209-set_colormap.md#90-04-209-a102)
+
 이 대화상자에서 작업중인 [인덱스](./19-glossaryx-color_mode_indexed.md) 이미지의 색상표를 다른 색상표로 선택해 바꿀 수 있습니다.
 
 작업중인 이미지가 [인덱스](./19-glossaryx-color_mode_indexed.md) 이미지가 아니라면 이 명령을 비활성화됩니다.
