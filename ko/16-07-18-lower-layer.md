@@ -8,7 +8,7 @@
 <a id="16-07-18-s1"></a>
 
 ## 1. 기본 동작
-`레이어 올리기(Raise layer)` 명령은 [레이어 스택](./19-glossaryx-layer_stack.md)에서 활성화 레이어를 한 칸 내립니다.
+`레이어 올리기(Raise layer)` 명령은 [레이어 스택](./19-glossaryx-layer_stack.md)에서 [활성화 레이어](./19-glossaryx-active_layer.md)를 한 칸 내립니다.
 
 활성화 레이어가 [레이어 스택](./19-glossaryx-layer_stack.md)의 맨 아래이거나, 유일한 레이어라면 `레이어 올리기(Raise layer)` 명령은 비활성화됩니다.
 

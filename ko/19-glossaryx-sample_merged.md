@@ -5,9 +5,9 @@
 
 이미지에 여러 개의 레이어가 있고 활성화된 레이어가 일부 투명이거나 [일반(Normal)](./08-03-01-normal_layer_mode-normal.md) 상태가 아닌 [레이어 모드](./08-02-00-layer_modes.md)일 경우에 대해 작업할 때 유용합니다.
 
-`표본 합치기(Sample Merged)` 옵션이 켜져 있다면, 표본(Sample)은 보이는 모든 레이어를 합성한 색상이 됩니다.
+`표본 합치기(Sample Merged)` 옵션이 켜져 있다면, 표본(Sample)은 보이는 모든 [레이어](./19-glossaryx-layer.md)를 합성한 색상이 됩니다.
 
-`표본 합치기(Sample Merged)` 옵션이 꺼져 있다면, 표본(Sample)은 활성화 레이어의 색상이 됩니다.
+`표본 합치기(Sample Merged)` 옵션이 꺼져 있다면, 표본(Sample)은 [활성화 레이어](./19-glossaryx-active_layer.md)의 색상이 됩니다.
 
 <a id="19-sample_merged-s01"></a>
 

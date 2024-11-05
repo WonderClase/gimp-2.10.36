@@ -9,7 +9,7 @@
 
 [떠있는 선택](./19-glossaryx-floating_selection.md)이 유지되면, [떠있는 선택](./19-glossaryx-floating_selection.md)에서만 작업할 수 있습니다.
 
-[떠있는 선택](./19-glossaryx-floating_selection.md) 외의 다른 부분에서 작업하기 위해서는 `레이어 고정하기(Anchor layer)` 명령을 사용해서 이전의 활성화 레이어에 [떠있는 선택](./19-glossaryx-floating_selection.md)을 고정(Anchor)해서 합쳐야 합니다.
+[떠있는 선택](./19-glossaryx-floating_selection.md) 외의 다른 부분에서 작업하기 위해서는 `레이어 고정하기(Anchor layer)` 명령을 사용해서 이전의 [활성화 레이어](./19-glossaryx-active_layer.md)에 [떠있는 선택](./19-glossaryx-floating_selection.md)을 고정(Anchor)해서 합쳐야 합니다.
 
 [떠있는 선택](./19-glossaryx-floating_selection.md)이 없다면, 이 메뉴는 표시되지 않습니다.
 

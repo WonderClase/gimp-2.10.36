@@ -8,7 +8,7 @@
 <a id="16-08-31-s1"></a>
 
 ## 1. 기능 설명
-`무채화…(Desaturate…)` 명령은 활성화 레이어의 모든 색상을 대응하는 회색 음영으로 바꿉니다.
+`무채화…(Desaturate…)` 명령은 [활성화 레이어](./19-glossaryx-active_layer.md)의 모든 색상을 대응하는 회색 음영으로 바꿉니다.
 
 이 명령은 이미지를 [그레이스케일](./19-glossaryx-color_mode_grayscale.md)로 바꾸는 것과 2가지 점에서 다릅니다.
 

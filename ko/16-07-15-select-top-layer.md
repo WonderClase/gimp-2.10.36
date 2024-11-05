@@ -10,7 +10,7 @@
 ## 1. 기본 동작
 `맨 위 레이어 선택(Select top layer)` 명령은 [레이어 스택](./19-glossaryx-layer_stack.md)의 맨 위 레이어를 선택하여 활성화합니다.
 
-활성화 레이어가 [레이어 스택](./19-glossaryx-layer_stack.md)의 맨 위라면 `맨 위 레이어 선택(Select top layer)` 명령은 비활성화됩니다.
+[활성화 레이어](./19-glossaryx-active_layer.md)가 [레이어 스택](./19-glossaryx-layer_stack.md)의 맨 위라면 `맨 위 레이어 선택(Select top layer)` 명령은 비활성화됩니다.
 
 <a id="16-07-15-s2"></a>
 

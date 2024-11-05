@@ -5,7 +5,7 @@
 #### [그림 90.4.196.a171. `색상 균형` 대화상자 → `휘도 유지` (Windows) (우리말)](./90-04-0196-color_balance.md#90-04-196-a171)
 <img width="448" height="547" alt="90-04-196-a171" src="https://github.com/user-attachments/assets/9bda1c5a-1c09-4978-ba8b-0377dba5d880" />
 
-`휘도 유지(Preserve Luminosity)` 옵션을 체크하면 활성화 레이어 또는 선택의 밝기가 유지됩니다.
+`휘도 유지(Preserve Luminosity)` 옵션을 체크하면 [활성화 레이어](./19-glossaryx-active_layer.md) 또는 [선택](./19-glossaryx-selection.md)의 밝기가 유지됩니다.
 
 그러므로 가장 밝은 픽셀의 값은 바뀌지 않게 됩니다.
 

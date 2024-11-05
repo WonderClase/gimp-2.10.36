@@ -8,7 +8,7 @@
 <a id="16-07-05-s1"></a>
 
 ## 1. 기능 정의
-`레이어 복제(Duplicate Layer)` 명령은 이미지에 활성화된 원본 레이어와 동일한 내용의 새 레이어를 추가합니다.
+`레이어 복제(Duplicate Layer)` 명령은 이미지에 활성화된 원본 [레이어](./19-glossaryx-layer.md)와 동일한 내용의 새 레이어를 추가합니다.
 
 <a id="16-07-05-s2"></a>
 
@@ -25,7 +25,7 @@
 <a id="16-07-05-s4"></a>
 
 ## 4. 패러사이트를 가지고 있는 레이어를 복제
-활성화 레이어에 [패러사이트](./19-glossaryx-parasite.md)를 가지고 있다면, 복제한 레이어에는 [패러사이트](./19-glossaryx-parasite.md)를 가지고 있지 않습니다.
+[활성화 레이어](./19-glossaryx-active_layer.md)에 [패러사이트](./19-glossaryx-parasite.md)를 가지고 있다면, 복제한 레이어에는 [패러사이트](./19-glossaryx-parasite.md)를 가지고 있지 않습니다.
 
 <a id="16-07-05-s5"></a>
 

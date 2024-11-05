@@ -13,7 +13,7 @@
 
 만약 [배경 레이어](./19-glossaryx-background_layer.md)가 [알파 채널](./19-glossaryx-alpha_channel.md)을 가진다면, 이름이 얇은 글씨체로 바뀝니다.
 
-활성화 레이어가 [배경 레이어](./19-glossaryx-background_layer.md)가 아닌 상태에서 [알파 채널](./19-glossaryx-alpha_channel.md)을 제거하면, 투명한 부분은 [배경색](./19-glossaryx-background_color.md)으로 채워지게 됩니다.
+[활성화 레이어](./19-glossaryx-active_layer.md)가 [배경 레이어](./19-glossaryx-background_layer.md)가 아닌 상태에서 [알파 채널](./19-glossaryx-alpha_channel.md)을 제거하면, 투명한 부분은 [배경색](./19-glossaryx-background_color.md)으로 채워지게 됩니다.
 
 <a id="16-07-35-s1"></a>
 

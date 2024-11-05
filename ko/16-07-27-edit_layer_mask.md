@@ -7,7 +7,7 @@
 
 `레이어 마스크 수정하기(Edit layer mask)` 메뉴를 클릭하면, 메뉴 옆에 체크 표시가 나타납니다.
 
-그러면 [레이어 마스크](./19-glossaryx-layer_mask.md)가 활성화 레이어의 활성화 컴포넌트가 되어 하얀색 테두리가 생깁니다.
+그러면 [레이어 마스크](./19-glossaryx-layer_mask.md)가 [활성화 레이어](./19-glossaryx-active_layer.md)의 활성화 컴포넌트가 되어 하얀색 테두리가 생깁니다.
 
 `레이어 마스크 수정하기(Edit layer mask)` 메뉴를 다시 클릭하면, 메뉴 옆의 체크 표시가 사라지며, [레이어 마스크](./19-glossaryx-layer_mask.md)는 비활성화됩니다.
 

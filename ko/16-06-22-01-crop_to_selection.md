@@ -8,7 +8,7 @@
 <a id="16-06-22-01-s1"></a>
 
 ## 1. 기본 동작
-`선택 영역 잘라내기(Crop to selection)` 명령은 이미지를 선택 영역의 경계까지만 남기고 나머지 영역을 제거합니다.
+`선택 영역 잘라내기(Crop to selection)` 명령은 [이미지](./19-glossaryx-image.md)를 [선택 영역](./19-glossaryx-selection.md)의 경계까지만 남기고 나머지 영역을 제거합니다.
 
 <a id="90-01-05-11-a111"></a>
 
@@ -27,9 +27,9 @@
 <a id="16-06-22-01-s3"></a>
 
 ## 3. 활성화된 레이어의 선택 영역만 잘라내고 싶다면?
-`선택 영역 잘라내기(Crop to selection)` 명령은  모든 이미지 레이어를 잘라냅니다.
+`선택 영역 잘라내기(Crop to selection)` 명령은 모든 이미지 레이어를 잘라냅니다.
 
-활성화 레이어만 잘라내고 싶다면, [16.7.54.1. 선택영역 잘라내기(Crop to selection)](./16-07-54-01-crop_to_selection.md)을 사용해주세요.
+[활성화 레이어](./19-glossaryx-active_layer.md)만 잘라내고 싶다면, [16.7.54.1. 선택영역 잘라내기(Crop to selection)](./16-07-54-01-crop_to_selection.md)을 사용해주세요.
 
 ## 4. 키보드 단축키: Ctrl + Alt + Shift + `C` (Windows)
 
