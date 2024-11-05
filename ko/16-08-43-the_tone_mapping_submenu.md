@@ -5,6 +5,8 @@
 #### [그림 90.1.7.18.a101. `이미지 메뉴 바` → `색` → `톤 대응` (Windows) (우리말)](./90-01-07-18-00-tone_mapping.md#90-01-07-18-a101)
 <img width="531" height="947" alt="90-01-07-18-a101" src="https://github.com/user-attachments/assets/f8b30d34-fefb-4df1-b485-0dc5757d3988" />
 
+[다른 운영체제와 언어의 `이미지 메뉴 바` → `색` → `톤 대응` 확인하기](./90-01-07-18-00-tone_mapping.md#90-01-07-18-a102)
+
 톤 매핑 하위 메뉴에는 이미지의 색상을 조정하는데 사용하는 톤 매핑 기능을 가지고 있습니다.
 
 대부분의 필터는 [높은 동적 범위(High Dynamic Range, HDR)](./19-glossaryx-high_dynamic_range.md)를 조정해서 낮은 동적 범위의 이미지로 나타낼 수 있습니다.
