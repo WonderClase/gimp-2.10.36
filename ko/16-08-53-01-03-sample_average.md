@@ -2,7 +2,7 @@
 
 <a id="90-04-224-a231"></a>
 
-#### 그림 90.4.224.a231. `python-fu-histogram-export` 대화상자 → `표본 평균` (Windows) (우리말)
+#### [그림 90.4.224.a231. `python-fu-histogram-export` 대화상자 → `표본 평균` (Windows) (우리말)](./90-04-0224-python_fu_histogram_export.md#90-04-224-a231)
 <img width="361" height="365" alt="90-04-224-a231" src="https://github.com/user-attachments/assets/b3810f63-3727-485c-b70c-adc17fc61ad1" />
 
 `표본 평균(Sample Average)`을 활성화하면, 이미지가 가지고 있는 모든 보이는 레이어를 합쳐서 히스토그램을 만듭니다.
