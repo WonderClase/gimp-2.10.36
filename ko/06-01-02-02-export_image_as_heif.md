@@ -27,13 +27,13 @@
 [다른 운영체제와 언어의 `이미지를 HEIF로 내보내기` 대화상자 확인하기](./90-04-0044-export_image_as_heif.md#90-04-44-a102)
 
 ### Nearly lossless
-(TODO 옵션 설명 추가 필요)
+<a comment="TODO 옵션 설명 추가 필요"></a>
 
 ### 화질(Quality)
-(TODO 옵션 설명 추가 필요)
+<a comment="TODO 옵션 설명 추가 필요"></a>
 
 ### 비트 깊이(Bit depth)
-(TODO 옵션 설명 추가 필요)
+<a comment="TODO 옵션 설명 추가 필요"></a>
 
 ### 색상 프로필 저장하기(Save color profile)
 이 체크박스가 체크되면 색상 프로필(color profile)이 내보내는 `HEIF` 이미지에 저장됩니다.

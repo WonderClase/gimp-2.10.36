@@ -14,3 +14,5 @@
 [⬆️ 위: 4. 문제 해결하기](./04-00-what-to-do-if-you-are-stuck.md)
 
 [🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-getting-unstuck.html)

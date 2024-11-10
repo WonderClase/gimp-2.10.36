@@ -26,7 +26,7 @@
 
 `XCF` 파일의 배경 레이어는 지울 수 있습니다. 지운 이후에는 투명한 배경을 볼 수 있습니다.
 
-(TODO 알파 채널을 이용한 좋은 예제와의 연결이 필요하다. 매뉴얼의 내용이 다소 부실하다고 생각됨)
+<a comment="TODO 알파 채널을 이용한 좋은 예제와의 연결이 필요하다. 매뉴얼의 내용이 다소 부실하다고 생각됨"></a>
 
 ***
 
@@ -48,4 +48,5 @@
 
 ## 관련 정보
 [Gimp-Forum.net: Copying and pasting from the Internet](https://www.gimp-forum.net/Thread-Copying-and-pasting-from-the-Internet)
-(TODO 위 내용 정리 필요)
+
+<a comment="TODO 위 내용 정리 필요"></a>

@@ -55,6 +55,8 @@
 
 ## 관련 정보
 
+[2.2. 설정 폴더들](./02-02-configuration-folders.md)
+
 [12.1.2.1. 자원 소비량(System Resources) - 5. 스왑 압축(Swap compression)](./12-01-02-01-resource_consumption.md#90-02-01-s5)
 
 ***
