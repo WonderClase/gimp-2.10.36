@@ -1,4 +1,5 @@
 # 8.2.7.4. LCh 밝기(LCh Lightness)
+
 #### 그림 8.2.7.4.a40. LCh 밝기(LCh Lightness)
 ![08-02-07-layer_mode-lch_component-04-lch_lightness](https://github.com/wonder13662/gimp/assets/15767104/b7f27b94-2707-44c6-b341-b1ccda27f9eb)
 

@@ -1,5 +1,7 @@
 # 8.3.12. 레이어 모드(Legacy) - 강한 빛(Hard light)
+
 ## 1. 이미지 예시
+
 #### 그림 8.3.12.a11. 레이어 모드(Legacy) - 강한 빛(Hard light)
 ![08-03-12-layer_mode_legacy-hard_light](https://github.com/wonder13662/gimp/assets/15767104/e3f683fe-d62a-4d31-b244-20242a664e3d)
 

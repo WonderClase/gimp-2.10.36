@@ -1,11 +1,17 @@
 # 8.3.9. 레이어 모드(Legacy) - 번(Burn)
+
 ## 1. 이미지 예시
+
 #### 그림 8.3.9.a11. 레이어 모드(Legacy) - 번(Burn)
 ![08-03-09-layer_mode_legacy-burn](https://github.com/wonder13662/gimp/assets/15767104/a65bf57f-cf3a-479e-a849-b2befb5c917b)
 
 `레이어 모드(Legacy) - 번(Burn)` 모드는 이미지를 어둡게 만듭니다. [8.3.8. 레이어 모드(Legacy) - 곱하기(Multiply)](./08-03-08-darken_layer_mode-multiply.md)를 적용한 것과 비슷한 효과를 냅니다.
 
-사진 보정에서 `레이어 모드(Legacy) - 번(Burn)` 모드는 어두운 방에서 찍은 사진의 특정 부분의 노출값을 낮출 때 사용됩니다. 이를 이용하면 밝은 부분에 있던 부분들이 드러납니다. 그레이스케일 이미지에서는 `레이어 모드(Legacy) - 번(Burn)` 모드보다 칠하기 도구의 `닷지(Dodge)/번(Burn)`의 `번(Burn)`를 사용하는 편이 좋습니다.
+사진 보정에서 `레이어 모드(Legacy) - 번(Burn)` 모드는 어두운 방에서 찍은 사진의 특정 부분의 노출값을 낮출 때 사용됩니다.
+
+이를 이용하면 밝은 부분에 있던 부분들이 드러납니다.
+
+그레이스케일 이미지에서는 `레이어 모드(Legacy) - 번(Burn)` 모드보다 칠하기 도구의 `닷지(Dodge)/번(Burn)`의 `번(Burn)`를 사용하는 편이 좋습니다.
 
 <a id="90-03-02-34-a2"></a>
 
@@ -59,6 +65,7 @@
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 8.3.10. 레이어 모드(Legacy) - 덧씌우기(Overlay)](./08-03-10-contrast_layer_mode-overlay.md)
 
 [⬅️ 이전: 8.3.8. 레이어 모드(Legacy) - 곱하기(Multiply)](./08-03-08-darken_layer_mode-multiply.md)

@@ -3,10 +3,14 @@
 #### 그림 8.3.17.a11. 레이어 모드(Legacy) - 나누기(Divide)
 ![08-03-17-layer_mode_legacy-divide](https://github.com/wonder13662/gimp/assets/15767104/3d5ddf5c-6bf3-4362-bbe5-d8782cec44b2)
 
-`레이어 모드(Legacy) - 나누기(Divide)` 모드를 적용하면 이미지는 밝아집니다. 때로는 태운 것처럼 하얀 부분이 많아지기도 합니다.
+`레이어 모드(Legacy) - 나누기(Divide)` 모드를 적용하면 이미지는 밝아집니다.
+
+때로는 태운 것처럼 하얀 부분이 많아지기도 합니다.
 
 ## 2. 방정식과 예시
-`레이어 모드(Legacy) - 나누기(Divide)` 모드는 아래쪽 레이어의 픽셀 값에 256을 곱한 뒤, 위쪽 레이어의 픽셀 값으로 나눈 값을 가져갑니다. 위쪽 레이어의 픽셀 값에 1을 더해 분모가 0이 되는 것을 피합니다.
+`레이어 모드(Legacy) - 나누기(Divide)` 모드는 아래쪽 레이어의 픽셀 값에 256을 곱한 뒤, 위쪽 레이어의 픽셀 값으로 나눈 값을 가져갑니다.
+
+위쪽 레이어의 픽셀 값에 1을 더해 분모가 0이 되는 것을 피합니다.
 
 #### 그림 8.3.17.a21. 레이어 모드(Legacy) - 나누기(Divide): 방정식
 ![08-03-17-layer_mode_legacy-divide-equation](https://github.com/wonder13662/gimp/assets/15767104/5b54800f-0486-4cb5-a833-790eb0defeca)
@@ -49,6 +53,7 @@
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 8.3.18. 레이어 모드(Legacy) - HSV 색상(HSV Hue)](./08-03-18-hsv_components_layer_mode-hsv_hue.md)
 
 [⬅️ 이전: 8.3.16. 레이어 모드(Legacy) - 질감 합치기(Grain merge)](./08-03-16-inversion_layer_mode-grain_merge.md)

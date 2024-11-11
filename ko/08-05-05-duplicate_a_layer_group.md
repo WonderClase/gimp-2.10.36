@@ -52,6 +52,7 @@
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 8.5.6. 다른 이미지로 레이어 그룹 옮기기(Move Layer Groups)](./08-05-06-move_layer_groups.md)
 
 [⬅️ 이전: 8.5.4. 레이어 그룹 올리기/내리기(Raise and Lower Layer Groups)](./08-05-04-raise_n_lower_layer_groups.md)

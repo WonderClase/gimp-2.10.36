@@ -1,4 +1,5 @@
 # 8.2.6.2. HSV 채도(HSV Saturation)
+
 #### 그림 8.2.6.2.a20. HSV 채도(HSV Saturation)
 ![08-02-06-layer_mode-hsv_component-02-hsv_saturation](https://github.com/wonder13662/gimp/assets/15767104/c8e20a44-4b38-496f-aa21-f9d8920555b2)
 

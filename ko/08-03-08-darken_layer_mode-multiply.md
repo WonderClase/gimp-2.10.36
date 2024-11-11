@@ -3,7 +3,9 @@
 #### 그림 8.3.8.a11. 레이어 모드(Legacy) - 곱하기(Multiply)
 ![08-03-08-layer_mode_legacy-multiply](https://github.com/wonder13662/gimp/assets/15767104/4f4de759-de2d-48ba-ba8c-8913c6e04813)
 
-`레이어 모드(Legacy) - 곱하기(Multiply)` 모드는 위쪽 레이어와 아래쪽 레이어의 각 픽셀의 색상값을 서로 곱한 뒤, 255로 나눈 값을 가집니다. 결과 이미지는 보통 더 어두워 집니다.
+`레이어 모드(Legacy) - 곱하기(Multiply)` 모드는 위쪽 레이어와 아래쪽 레이어의 각 픽셀의 색상값을 서로 곱한 뒤, 255로 나눈 값을 가집니다.
+
+결과 이미지는 보통 더 어두워 집니다.
 
 한쪽 레이어가 검정색(0)일 경우에는 검은색 이미지가 됩니다.
 #### 그림 8.3.8.a12. 레이어 모드(Legacy) - 곱하기(Multiply): 위쪽 레이어가 검은색
@@ -48,7 +50,9 @@
 ```
 
 ## 3. 서로 바꿀 수 있는 레이어(Commutative Layer)
-`레이어 모드(Legacy) - 곱하기(Multiply)` 모드는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `레이어 모드(Legacy) - 곱하기(Multiply)` 모드이면 레이어의 순서를 바꿔도 두 레이어가 겹치는 부분에 대해서는 결과가 같습니다. 다만, 아래쪽 레이어의 투명 영역에 대해서는 이 레이어 모드의 효과가 적용되지 않으므로 주의하세요.
+`레이어 모드(Legacy) - 곱하기(Multiply)` 모드는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `레이어 모드(Legacy) - 곱하기(Multiply)` 모드이면 레이어의 순서를 바꿔도 두 레이어가 겹치는 부분에 대해서는 결과가 같습니다.
+
+다만, 아래쪽 레이어의 투명 영역에 대해서는 이 레이어 모드의 효과가 적용되지 않으므로 주의하세요.
 
 #### 영상 8.3.8.a31. 레이어 모드(Legacy) - 곱하기(Multiply): 레이어 순서를 바꿔도 결과는 같음 - 서로 바꿀 수 있는 레이어(Commutative Layer)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dfb41f7b-4e93-41e2-a905-41bcfcbed0a5"></video>
@@ -56,6 +60,7 @@
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 8.3.9. 레이어 모드(Legacy) - 번(Burn)](./08-03-09-darken_layer_mode-burn.md)
 
 [⬅️ 이전: 8.3.7. 레이어 모드(Legacy) - 어두운 색만(Darken only)](./08-03-07-darken_layer_mode-darken_only.md)

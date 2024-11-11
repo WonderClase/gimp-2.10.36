@@ -1,5 +1,7 @@
 # 8.3.19. 레이어 모드(Legacy) - HSV 채도(HSV Saturation)
+
 ## 1. 이미지 예시
+
 #### 그림 8.3.19.a11. 레이어 모드(Legacy) - HSV 채도(HSV Saturation)
 ![08-03-19-layer_mode_legacy-hsv_saturation](https://github.com/wonder13662/gimp/assets/15767104/b7f0e29b-62aa-4038-aa5e-32f0e4b5a05b)
 

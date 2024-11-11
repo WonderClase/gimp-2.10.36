@@ -1,5 +1,7 @@
 # 8.3.20. 레이어 모드(Legacy) - HSL 색상(HSL Color)
+
 ## 1. 이미지 예시
+
 #### 그림 8.3.20.a11. 레이어 모드(Legacy) - HSL 색상(HSL Color)
 ![08-03-20-layer_mode_legacy-hsl_color](https://github.com/wonder13662/gimp/assets/15767104/6bd185df-ead9-4a93-8a17-52b8b09cd9cf)
 

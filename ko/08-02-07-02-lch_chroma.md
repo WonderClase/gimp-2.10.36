@@ -1,4 +1,5 @@
 # 8.2.7.2. LCh 크로마(LCh Chroma)
+
 #### 그림 8.2.7.2.a20. LCh 크로마(LCh Chroma)
 ![08-02-07-layer_mode-lch_component-02-lch_chroma](https://github.com/wonder13662/gimp/assets/15767104/fc528e3b-9c0d-4c20-8a79-848e95c99d52)
 

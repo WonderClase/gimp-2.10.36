@@ -1,9 +1,13 @@
 # 8.3.11. 레이어 모드(Legacy) - 부드러운 빛(Soft light)
+
 ## 1. 이미지 예시
+
 #### 그림 8.3.11.a11. 레이어 모드(Legacy) - 부드러운 빛(Soft light)
 ![08-03-11-layer_mode_legacy-soft_light](https://github.com/wonder13662/gimp/assets/15767104/9ed35034-453a-4994-9368-0b8e4e0bde37)
 
-`레이어 모드(Legacy) - 부드러운 빛(Soft light)` 모드는 경계를 부드럽게 만듭니다. 하지만 색상에는 변화를 주지 않습니다. 
+`레이어 모드(Legacy) - 부드러운 빛(Soft light)` 모드는 경계를 부드럽게 만듭니다.
+
+하지만 색상에는 변화를 주지 않습니다. 
 
 ## 2. 방정식과 예시
 `레이어 모드(Legacy) - 부드러운 빛(Soft light): 방정식`의 `Rs`는 `레이어 모드(Legacy) - 화면(Screen): 방정식`의 결과값입니다.

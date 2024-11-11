@@ -1,9 +1,13 @@
 # 8.3.18. 레이어 모드(Legacy) - HSV 색상(HSV Hue)
+
 ## 1. 이미지 예시
+
 #### 그림 8.3.18.a11. 레이어 모드(Legacy) - HSV 색상(HSV Hue)
 ![08-03-18-layer_mode_legacy-hsv_hue](https://github.com/wonder13662/gimp/assets/15767104/d8ee5584-10de-45e2-83cd-0b65115684fa)
 
-`레이어 모드(Legacy) - HSV 색상(HSV Hue)` 모드는 위쪽 레이어의 색상(Hue)과 아래쪽 레이어의 채도(Saturation)과 명도(Value)를 합쳐 결과 이미지를 만듭니다. 만약 위쪽 레이어의 색상(Hue)의 값이 0이면, 아래쪽 레이어의 색상(Hue)의 값을 사용합니다.
+`레이어 모드(Legacy) - HSV 색상(HSV Hue)` 모드는 위쪽 레이어의 색상(Hue)과 아래쪽 레이어의 채도(Saturation)과 명도(Value)를 합쳐 결과 이미지를 만듭니다.
+
+만약 위쪽 레이어의 색상(Hue)의 값이 0이면, 아래쪽 레이어의 색상(Hue)의 값을 사용합니다.
 
 ***
 

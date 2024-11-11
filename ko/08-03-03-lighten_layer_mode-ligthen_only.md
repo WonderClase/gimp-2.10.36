@@ -3,7 +3,9 @@
 #### 그림 8.3.3.a11. 레이어 모드(Legacy) - 밝은 색만(Lighten only)
 ![08-03-03-layer_mode_legacy-lighten_only](https://github.com/wonder13662/gimp/assets/15767104/5b6ec47d-2128-45fe-9cb3-137f08caea12)
 
-`레이어 모드(Legacy) - 밝은 색만(Lighten only)` 모드는 위쪽 레이어(마스크)와 아래쪽 레이어(배경 이미지)의 각 픽셀 값을 비교해서 큰 값을 가져갑니다. 따라서 한 레이어가 검정색 이미지이면 최종 이미지에는 변화가 없고, 하얀색 이미지이면 최종 이미지는 하얀색 이미지가 됩니다.
+`레이어 모드(Legacy) - 밝은 색만(Lighten only)` 모드는 위쪽 레이어(마스크)와 아래쪽 레이어(배경 이미지)의 각 픽셀 값을 비교해서 큰 값을 가져갑니다.
+
+따라서 한 레이어가 검정색 이미지이면 최종 이미지에는 변화가 없고, 하얀색 이미지이면 최종 이미지는 하얀색 이미지가 됩니다.
 
 ## 2. 방정식과 예시
 #### 그림 8.3.3.a21. 레이어 모드(Legacy) - 밝은 색만(Lighten only): 방정식
@@ -39,7 +41,9 @@
 ```
 
 ## 3. 서로 바꿀 수 있는 레이어(Commutative Layer)
-`레이어 모드(Legacy) - 밝은 색만(Lighten only)` 모드는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `레이어 모드(Legacy) - 밝은 색만(Lighten only)` 모드이면 레이어의 순서를 바꿔도 두 레이어가 겹치는 부분에 대해서는 결과가 같습니다. 다만, 아래쪽 레이어의 투명 영역에 대해서는 이 레이어 모드의 효과가 적용되지 않으므로 주의하세요.
+`레이어 모드(Legacy) - 밝은 색만(Lighten only)` 모드는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `레이어 모드(Legacy) - 밝은 색만(Lighten only)` 모드이면 레이어의 순서를 바꿔도 두 레이어가 겹치는 부분에 대해서는 결과가 같습니다.
+
+다만, 아래쪽 레이어의 투명 영역에 대해서는 이 레이어 모드의 효과가 적용되지 않으므로 주의하세요.
 
 #### 영상 8.3.3.a31. 레이어 모드(Legacy) - 밝은 색만(Lighten only): 레이어 순서를 바꿔도 결과는 같음 - 서로 바꿀 수 있는 레이어(Commutative Layer)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/53ff3837-274b-43b1-969a-12837585eabf"></video>

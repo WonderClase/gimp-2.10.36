@@ -5,7 +5,9 @@
 #### 그림 8.3.1.a2. 레이어 모드(Legacy) - 일반(Normal): 위쪽 레이어(마스크)의 불투명도가 50%
 ![08-03-01-layer_mode_legacy-normal-opacity_50](https://github.com/wonder13662/gimp/assets/15767104/eb4d155d-1b3d-4d90-b23d-3e80dc3ddf91)
 
-`레이어 모드(Legacy) - 일반(Normal)` 모드는 레이어 모드의 기본값입니다. 위쪽 레이어는 아래쪽 레이어를 덮습니다. `레이어 모드(Legacy) - 일반(Normal)` 모드에서 아래쪽 레이어에 어떤 것이 있는지 보려면, 위쪽 레이어의 불투명도(Opacity)를 낮춰야 합니다.
+`레이어 모드(Legacy) - 일반(Normal)` 모드는 레이어 모드의 기본값입니다. 위쪽 레이어는 아래쪽 레이어를 덮습니다.
+
+`레이어 모드(Legacy) - 일반(Normal)` 모드에서 아래쪽 레이어에 어떤 것이 있는지 보려면, 위쪽 레이어의 불투명도(Opacity)를 낮춰야 합니다.
 
 #### 그림 8.3.1.a3. 레이어 모드(Legacy) - 일반(Normal): 방정식
 ![08-03-01-layer_mode_legacy-normal-equation](https://github.com/wonder13662/gimp/assets/15767104/2dc2004b-d911-4cb2-bb1a-997bc8f4c55f)

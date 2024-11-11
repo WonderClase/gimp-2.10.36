@@ -1,5 +1,7 @@
 # 8.5.4. 레이어 그룹 올리기/내리기(Raise and Lower Layer Groups)
-레이어 대화상자에서 레이어 그룹을 보통 레이어처럼 올리고 내릴 수 있습니다. 아래 방법들을 확인해보세요.
+레이어 대화상자에서 레이어 그룹을 보통 레이어처럼 올리고 내릴 수 있습니다.
+
+아래 방법들을 확인해보세요.
 
 <a id="08-05-04-s1"></a>
 
@@ -24,7 +26,11 @@
 <a id="08-05-04-s3"></a>
 
 ## 3. 문제해결: 레이어의 클릭, 드래그가 안되요
-GIMP(김프)와 함께 실행중인 어플리케이션이 레이어의 drag & drop 기능을 방해할 수 있습니다. 레이어의 drag & drop 기능이 동작하지 않는다면 함께 실행중인 어플리케이션을 중단해보세요. [관련 문서 - Gimp-Forum.net: Can't drag and drop to reorder layers - fixed](https://www.gimp-forum.net/Thread-Can-t-drag-and-drop-to-reorder-layers-fixed)
+GIMP(김프)와 함께 실행중인 어플리케이션이 레이어의 drag & drop 기능을 방해할 수 있습니다.
+
+레이어의 드래그, 드롭 기능이 동작하지 않는다면 함께 실행중인 어플리케이션을 중단해보세요.
+
+[관련 문서 - Gimp-Forum.net: Can't drag and drop to reorder layers - fixed](https://www.gimp-forum.net/Thread-Can-t-drag-and-drop-to-reorder-layers-fixed)
 
 <a id="90-04-03-09-a11"></a>
 

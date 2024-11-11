@@ -1,5 +1,7 @@
 # 8.2.7. 레이어 모드-LCh components
-`LCh` 레이어 모드는 `LCh` 컬러 모델을 사용합니다. `LCh`는 밝기(Lightness), 채도(Chroma), 색상(Hue)을 의미합니다. `LCh`는 수학적으로 [CIELAB 색 공간](https://ko.wikipedia.org/wiki/CIELAB_%EC%83%89_%EA%B3%B5%EA%B0%84)에서 왔습니다.
+`LCh` 레이어 모드는 `LCh` 컬러 모델을 사용합니다. `LCh`는 밝기(Lightness), 채도(Chroma), 색상(Hue)을 의미합니다.
+
+`LCh`는 수학적으로 [CIELAB 색 공간](https://ko.wikipedia.org/wiki/CIELAB_%EC%83%89_%EA%B3%B5%EA%B0%84)에서 왔습니다.
 
 #### 표 8.2.7.a1. LCh 컬러모델과 HSV 컬러모델 비교
 
@@ -26,6 +28,7 @@
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 8.2.7.1. LCh 색상(LCh Hue)](./08-02-07-01-lch_hue.md)
 
 [⬅️ 이전: 8.2.6.4. HSV 명도(HSV Value)](./08-02-06-04-hsv_value.md)

@@ -1,4 +1,5 @@
 # 8.2.7.5. 휘도(Luminance)
+
 #### 그림 8.2.7.a50. 휘도(Luminance)
 ![08-02-07-layer_mode-lch_component-05-luminance](https://github.com/wonder13662/gimp/assets/15767104/bb450a4a-aac8-468f-880f-ff8fd1626805)
 
