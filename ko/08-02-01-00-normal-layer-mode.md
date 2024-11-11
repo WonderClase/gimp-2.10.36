@@ -1,5 +1,7 @@
 # 8.2.1. 레이어 모드-Normal
-레이어 모드 "Normal" 그룹은 오해의 소지가 있는 이름입니다. 레이어 모드 "Normal" 그룹의 `일반(Normal)` 모드를 제외한 나머지 모드는 [취소 레이어 모드(Cancellation Layer Mode)](./19-glossaryx-cancellation_layer_mode.md) 타입입니다.
+레이어 모드 "Normal" 그룹은 오해의 소지가 있는 이름입니다.
+
+레이어 모드 "Normal" 그룹의 `일반(Normal)` 모드를 제외한 나머지 모드는 [취소 레이어 모드(Cancellation Layer Mode)](./19-glossaryx-cancellation_layer_mode.md) 타입입니다.
 
 ***
 
