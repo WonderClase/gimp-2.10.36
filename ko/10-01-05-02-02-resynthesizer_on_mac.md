@@ -1,7 +1,9 @@
 # 10.1.5.2.2. Mac OSX에서 Resynthesizer 사용하기
 ## 1. 설치하기
 
-사용자의 Mac에 MacPorts가 설치되어 있지 않다면, [MacPorts 설치하기](https://guide.macports.org/) 페이지의 내용을 확인하여 MacPorts를 설치합니다. 설치가 완료되었다면, 아래 명령으로 MacPorts가 설치되었는지 확인합니다.
+사용자의 Mac에 MacPorts가 설치되어 있지 않다면, [MacPorts 설치하기](https://guide.macports.org/) 페이지의 내용을 확인하여 MacPorts를 설치합니다.
+
+설치가 완료되었다면, 아래 명령으로 MacPorts가 설치되었는지 확인합니다.
 
 ```
 $ port version

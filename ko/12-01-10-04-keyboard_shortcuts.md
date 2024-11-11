@@ -7,10 +7,24 @@
 
 ## 1. 동적인 키보드 단축키 사용(Use dynamics keyboard shortcuts)
 
-GIMP(김프)에서 키보드 단축키를 만들 수 있습니다. 여기서 말하는 키보드 단축키는 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 원하는 메뉴 진입점에 마우스 커서를 올려두고, 메뉴에 해당하는 키를 눌러서 메뉴를 선택하는 키 조합을 말합니다. 그렇지만, 이 기능은 기본적으로는 비활성 상태입니다. 초보자들은 기본 키보드 단축키를 덮어쓸 수 있기 때문입니다. 이 기능을 활성화하고 싶다면, `동적인 키보드 단축키 사용(Use dynamics keyboard shortcuts)` 체크박스를 체크해주세요. 상세한 정보를 [12.5. 메뉴 명령어 단축키 만들기](./12-05-creating-shortcuts-to-menu-commands.md)에서 확인해 볼 수 있습니다.
+GIMP(김프)에서 키보드 단축키를 만들 수 있습니다.
+
+여기서 말하는 키보드 단축키는 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 원하는 메뉴 진입점에 마우스 커서를 올려두고, 메뉴에 해당하는 키를 눌러서 메뉴를 선택하는 키 조합을 말합니다.
+
+그렇지만, 이 기능은 기본적으로는 비활성 상태입니다.
+
+초보자들은 기본 키보드 단축키를 덮어쓸 수 있기 때문입니다.
+
+이 기능을 활성화하고 싶다면, `동적인 키보드 단축키 사용(Use dynamics keyboard shortcuts)` 체크박스를 체크해주세요.
+
+상세한 정보를 [12.5. 메뉴 명령어 단축키 만들기](./12-05-creating-shortcuts-to-menu-commands.md)에서 확인해 볼 수 있습니다.
 
 ## 2. 키보드 단축키 설정…(Configure keyboard Shortcuts…)
-`키보드 단축키 설정…(Configure keyboard Shortcuts…)` 버튼을 눌러서 [단축키 대화상자](./15-05-11-00-keyboard-shortcut-dialog.md)를 띄울 수 있습니다. 이 대화상자에서 모든 동작을 확인할 수 있고, 동작별로 할당된 단축키를 확인할 수 있습니다. 또한 동작에 대한 단축키를 바꿀 수도 있습니다.
+`키보드 단축키 설정…(Configure keyboard Shortcuts…)` 버튼을 눌러서 [단축키 대화상자](./15-05-11-00-keyboard-shortcut-dialog.md)를 띄울 수 있습니다.
+
+이 대화상자에서 모든 동작을 확인할 수 있고, 동작별로 할당된 단축키를 확인할 수 있습니다.
+
+또한 동작에 대한 단축키를 바꿀 수도 있습니다.
 
 <a id="90-04-87-a101"></a>
 
@@ -20,7 +34,9 @@ GIMP(김프)에서 키보드 단축키를 만들 수 있습니다. 여기서 말
 [다른 운영체제와 언어의 `키보드 단축키 설정` 대화상자 확인하기](./90-04-0087-configure_keyboard_shortcuts.md#90-04-87-a102)
 
 ## 3. 마칠 때 키보드 단축키 저장(Save keyboard shortcuts on exit)
-바꾼 단축키를 GIMP(김프)를 종료한 뒤에 다시 GIMP(김프)에서 쓰고 싶다면, `마칠 때 키보드 단축키 저장(Save keyboard shortcuts on exit)` 체크박스를 켜두어야 합니다. 만약 그렇지 않다면, `마칠 때 키보드 단축키 저장(Save keyboard shortcuts on exit)` 체크박스를 꺼주시면 됩니다.
+바꾼 단축키를 GIMP(김프)를 종료한 뒤에 다시 GIMP(김프)에서 쓰고 싶다면, `마칠 때 키보드 단축키 저장(Save keyboard shortcuts on exit)` 체크박스를 켜두어야 합니다.
+
+만약 그렇지 않다면, `마칠 때 키보드 단축키 저장(Save keyboard shortcuts on exit)` 체크박스를 꺼주시면 됩니다.
 
 ## 4. 키보드 단축키 지금 저장(Save Keyboard Shortcuts Now)
 바꾼 단축키를 지금 즉시 GIMP(김프)에 저장해서 이후에 계속 쓰고 싶다면, `키보드 단축키 지금 저장(Save Keyboard Shortcuts Now)` 버튼을 눌러서 현재 단축키 설정을 저장할 수 있습니다.

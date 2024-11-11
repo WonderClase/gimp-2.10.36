@@ -20,7 +20,9 @@
 ## 1. 하드웨어 가속(Hardware Acceleration)
 
 ### 1-1. OpenCL 사용(Use OpenCL)
-`OpenCL`은 [Open Computing Language](https://en.wikipedia.org/wiki/OpenCL)의 약자입니다. 이 옵션은 CPU 대신 GPU(Graphic Processing Unit)를 사용해서 처리 속도를 높입니다.
+`OpenCL`은 [Open Computing Language](https://en.wikipedia.org/wiki/OpenCL)의 약자입니다.
+
+이 옵션은 CPU 대신 GPU(Graphic Processing Unit)를 사용해서 처리 속도를 높입니다.
 
 ⚠️ 주의: 이 기능은 매우 실험적인 기능이므로 충돌을 일으키거나 멈출 가능성이 높습니다. 속도의 개선이 꼭 필요한 경우에만 사용하세요.
 

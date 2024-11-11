@@ -5,7 +5,9 @@
 #### [그림 90.2.2.a14. `기본설정` → `색상관리` → `색상 교정` (Windows) (우리말)](./90-02-02-color-management.md#90-02-02-a14)
 ![90-02-02-a14](https://github.com/wonder13662/gimp/assets/15767104/e5e2e543-7220-49d0-bbe8-1521186a1717)
 
-[`색상 교정(Soft Proofing)`](./19-glossaryx-soft_proofing.md)은 화면에 보이는 이미지가 인쇄된 종이에 어떻게 보이는지 확인하는 방법입니다. 일반적으로 이미지의 색 공간(Color Space)에서 프린터나 다른 출력 장치의 다른 색 공간으로의 [`색상 교정(Soft Proofing)`](./19-glossaryx-soft_proofing.md)을 의미합니다.
+[`색상 교정(Soft Proofing)`](./19-glossaryx-soft_proofing.md)은 화면에 보이는 이미지가 인쇄된 종이에 어떻게 보이는지 확인하는 방법입니다.
+
+일반적으로 이미지의 색 공간(Color Space)에서 프린터나 다른 출력 장치의 다른 색 공간으로의 [`색상 교정(Soft Proofing)`](./19-glossaryx-soft_proofing.md)을 의미합니다.
 
 ## 1. 색상 교청 프로필(Soft-proofing profile)
 
@@ -35,11 +37,17 @@
 #### [그림 90.2.2.a14.3. `기본설정` → `색상관리` → `색상 교정` → `색상 교정 최적화 대상` (Windows) (우리말)](./90-02-02-color-management.md#90-02-02-a14-03)
 ![90-02-02-a14-03](https://github.com/wonder13662/gimp/assets/15767104/b0f3614e-4a0f-49a2-a515-b6c27b5cb012)
 
-`속도(Speed)`와 `정밀도/색상 정확성(Precision/Color fidelity)`를 선택할 수 있습니다. `속도(Speed)`가 기본값입니다. `정밀도/색상 정확성(Precision/Color fidelity)`를 선택하면, 색상 교정이 더 나아지고 속도가 떨어지게 됩니다.
+`속도(Speed)`와 `정밀도/색상 정확성(Precision/Color fidelity)`를 선택할 수 있습니다.
+
+`속도(Speed)`가 기본값입니다.
+
+`정밀도/색상 정확성(Precision/Color fidelity)`를 선택하면, 색상 교정이 더 나아지고 속도가 떨어지게 됩니다.
 
 ## 5. 색의 영역을 벗어난 색상 표시(Mark out of gamut colors)
 
-`색의 영역을 벗어난 색상 표시(Mark out of gamut colors)` 옵션이 체크되면, 색상 교정 과정에서 [색역(gamut)](./19-glossaryx-gamut.md)에서 표시할 수 없는 색상을 표시합니다. 오른쪽에 색상 버튼을 누르면, 색상 선택 대화상자를 열어 표시할 수 없는 색상을 나타내는 색을 선택할 수 있습니다.
+`색의 영역을 벗어난 색상 표시(Mark out of gamut colors)` 옵션이 체크되면, 색상 교정 과정에서 [색역(gamut)](./19-glossaryx-gamut.md)에서 표시할 수 없는 색상을 표시합니다.
+
+오른쪽에 색상 버튼을 누르면, 색상 선택 대화상자를 열어 표시할 수 없는 색상을 나타내는 색을 선택할 수 있습니다.
 
 ***
 
