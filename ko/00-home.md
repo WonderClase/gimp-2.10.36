@@ -5422,6 +5422,8 @@
 
 [19. 용어집 - 체비쇼프(Chebyshev)](./19-glossaryx-chebyshev.md)
 
+[19. 용어집 - 크로마 서브샘플링(Subsampling)](./19-glossaryx-chroma_subsampling.md)
+
 [19. 용어집 - 색채 적응(Chromatic Adaptation)](./19-glossaryx-chromatic_adaptation.md)
 
 [19. 용어집 - 색도(Chromaticity)](./19-glossaryx-chromaticity.md)
@@ -5654,6 +5656,8 @@
 
 [19. 용어집 - 가시영역 RGB(Perceptual RGB)](./19-glossaryx-perceptual_rgb.md)
 
+[19. 용어집 - 픽셀(Pixel)](./19-glossaryx-pixel.md)
+
 [19. 용어집 - 픽스맵(pixmap)](./19-glossaryx-pixmap.md)
 
 [19. 용어집 - 포스트스크립트(PostScript)](./19-glossaryx-postscript.md)
@@ -5707,6 +5711,8 @@
 [19. 용어집 - 상태 표시 영역(Status Area)](./19-glossaryx-status_area.md)
 
 [19. 용어집 - string_append](./19-glossaryx-string_append.md)
+
+[19. 용어집 - 서브픽셀(Subpixel)](./19-glossaryx-subpixel.md)
 
 [19. 용어집 - 탭 메뉴(Tab Menu)](./19-glossaryx-tab_menu.md)
 

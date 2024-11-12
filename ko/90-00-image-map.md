@@ -437,6 +437,14 @@
 
 [90.1.7.16. 무채화(Desaturate)](./90-01-07-16-00-desaturate.md)
 
+[90.1.7.16.1. 흑백 전환(Color to Gray…)](./90-01-07-16-01-color_to_gray.md)
+
+[90.1.7.16.2. 무채화…(Desaturate…)](./90-01-07-16-02-desaturate.md)
+
+[90.1.7.16.3. Mono Mixer…](./90-01-07-16-03-mono_mixer.md)
+
+[90.1.7.16.4. 세피아…(Sepia…)](./90-01-07-16-04-sepia.md)
+
 [90.1.7.17. 지도(Map)](./90-01-07-17-00-map.md)
 
 [90.1.7.17.1. 색상표 재배치…(Rearrange Colormap…)](./90-01-07-17-01-rearrange_colormap.md)
@@ -456,6 +464,16 @@
 [90.1.7.17.8. 표본 색상화…(Sample Colorize…)](./90-01-07-17-08-sample_colorize.md)
 
 [90.1.7.18. 톤 대응(Tone Mapping)](./90-01-07-18-00-tone_mapping.md)
+
+[90.1.7.18.1. Fattal et al. 2002](./90-01-07-18-01-fattal_et_al_2002.md)
+
+[90.1.7.18.2. 만티크 2006(Mantiuk 2006)](./90-01-07-18-02-mantiuk_2006.md)
+
+[90.1.7.18.3. 라인하르트 2005(Reinhard 2005)](./90-01-07-18-03-reinhard_2005.md)
+
+[90.1.7.18.4. Stress](./90-01-07-18-04-stress.md)
+
+[90.1.7.18.5. 레티넥스(Retinex)](./90-01-07-18-05-retinex.md)
 
 [90.1.7.19. 정보(Info)](./90-01-07-19-00-info.md)
 
