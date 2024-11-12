@@ -4,7 +4,7 @@
 
 #### 그림 19.pixel.a1. 픽셀과 서브 픽셀
 
-<img width="480" height="160" alt="19-pixel-a1" src="https://github.com/user-attachments/assets/435a3927-de3f-48aa-b0c9-54e563bbf079" />
+<img width="480" height="160" alt="19-pixel-a1" src="https://github.com/user-attachments/assets/5254514c-9528-401a-870a-3e0f5dac10b3" />
 
 하나의 [픽셀](./19-glossaryx-pixel.md)은 Red, Green, Blue를 표현하는 3개의 서브 픽셀(부분 화소)로 이루어져 있습니다.
 

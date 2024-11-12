@@ -4,7 +4,7 @@
 
 #### 그림 19.pixel.a1. 픽셀과 서브 픽셀
 
-<img width="480" height="160" alt="19-pixel-a1" src="https://github.com/user-attachments/assets/435a3927-de3f-48aa-b0c9-54e563bbf079" />
+<img width="480" height="160" alt="19-pixel-a1" src="https://github.com/user-attachments/assets/5254514c-9528-401a-870a-3e0f5dac10b3" />
 
 픽셀(Pixel)은 그림(Picture)과 원소(Element)의 줄인 말입니다.
 
